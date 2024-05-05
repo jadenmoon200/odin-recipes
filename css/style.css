@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    font-family: inter, roboto;
+    color: tan;
+    padding: 5px;
+}
+
+h1, h2{
+    text-align: center;
+    color: grey;
+    font-weight: 900;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    background-color: grey;
+}
+
+* { 
+    outline: 1px solid red;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
